@@ -11,7 +11,7 @@ xgboost
 catboost
 pymongo
 from_root
-evidently==0.2.8 #data drift prediction
+evidently==0.2.8 #data drift predictions
 dill
 PyYAML
 neuro_mf
