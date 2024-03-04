@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+notebook/mongDB_demo.ipynb
 
 # Spyder project settings
 .spyderproject
